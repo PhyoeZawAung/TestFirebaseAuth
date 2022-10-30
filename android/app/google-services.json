@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370081301108",
+    "project_id": "hwys-67ddb",
+    "storage_bucket": "hwys-67ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370081301108:android:bf56384fcc6f9dcc2ac721",
+        "android_client_info": {
+          "package_name": "com.hwys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370081301108-g15clqa00plrjgs73q033uqis4r0hsga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhnjPxwBZyzcbQrAgh6Yhj1Q4v6GaKLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370081301108-g15clqa00plrjgs73q033uqis4r0hsga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
